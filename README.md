@@ -1,4 +1,4 @@
-# OpenZeppelin TimelockController Vulnerability Agent
+# OpenZeppelin TimelockController Agent
 
 ## Description
 
